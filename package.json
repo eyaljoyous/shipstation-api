@@ -1,20 +1,22 @@
 {
   "name": "shipstation-client",
   "version": "0.1.0",
-  "description": "OpenAPI client for shipstation-client",
-  "author": "OpenAPI-Generator Contributors",
+  "description": "ShipStation V2 SDK",
+  "author": "Eyal Fishler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
+    "url": "https://github.com/eyaljoyous/shipstation-api.git"
   },
   "keywords": [
-    "axios",
-    "typescript",
-    "openapi-client",
-    "openapi-generator",
-    "shipstation-client"
+    "nodejs",
+    "shipstation-client",
+    "shipstation",
+    "shipstation-api",
+    "shipstation api",
+    "shipstation nodejs",
+    "shipstation api v2"
   ],
-  "license": "Unlicense",
+  "license": "MIT",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "module": "./dist/esm/index.js",
